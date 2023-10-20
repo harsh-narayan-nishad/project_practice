@@ -1,0 +1,16 @@
+body{
+    background-image: url(Image/ashok-acharya-tW0PuUiLjhA-unsplash.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    /* color: white; */
+}
+
+.card{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
